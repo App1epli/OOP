@@ -9,7 +9,6 @@ Each subfolder represents an individual project or lab assignment focused on app
 ## Languages & Technologies
 
 - <img src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" width="20"/> **Java**
-- <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="20"/> **TypeScript**
 
 <div align="center">
 <kbd>
